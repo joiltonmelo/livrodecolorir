@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://joiltonmelo.github.io/livrodecolorir/sitemap.xml
